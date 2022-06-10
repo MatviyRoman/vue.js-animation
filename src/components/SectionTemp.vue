@@ -335,8 +335,8 @@ export default {
 
 		@media (max-width: 768px) {
 			width: 100%;
-			min-height: 50vh;
-			height: 100%;
+			min-height: 555px;
+			height: 50vh;
 		}
 	}
 
@@ -357,8 +357,8 @@ export default {
 
 			@media (max-width: 768px) {
 				width: 100%;
-				min-height: 50vh;
-				max-height: 50vh;
+				min-height: 555px;
+				height: 50vh;
 				height: 100%;
 				overflow: hidden;
 			}
@@ -444,8 +444,9 @@ export default {
 
 					@media (max-width: 768px) {
 						width: 100%;
-						min-height: 70vh;
-						height: 100%;
+
+						min-height: 555px;
+						height: 50vh;
 					}
 				}
 			}
