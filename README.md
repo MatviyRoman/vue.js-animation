@@ -59,3 +59,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 При перемиканні фото змінюється як тут.
 Фотографії під адаптиви масштабуються, але місце для плюсика/тултіпа завжди залишається тим самим.
+
+
+https://docs.google.com/document/d/16xWHTywR7CSDJ5xJqfO4Z-HQ4_qX9pcxZRloRYdnZRk/edit#
